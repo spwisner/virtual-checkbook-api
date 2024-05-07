@@ -1,0 +1,6 @@
+/fastapienv/
+.DS_Store
+
+__pycache__/
+env
+.pytest_cache
